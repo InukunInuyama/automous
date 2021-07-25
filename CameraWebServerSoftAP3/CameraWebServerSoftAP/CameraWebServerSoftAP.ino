@@ -27,11 +27,6 @@
 
 #include "camera_pins.h"
 
-//const char* ssid = "241352919595";
-//const char* ssid = "RK";
-//const char* password = "61199489";
-//const char* password = "daizu100";
-
 //ESP32 SoftAP Configration
 const char ssid[] = "ESP32-NET";
 const char pass[] = "mypass12345";
